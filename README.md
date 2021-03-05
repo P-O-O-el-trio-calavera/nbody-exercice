@@ -1,1 +1,1 @@
-# nbody-exercice
+# NBODY-EXERCICE
